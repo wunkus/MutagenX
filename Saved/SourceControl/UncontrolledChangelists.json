@@ -5,24 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/ModSciInteriors/Maps/Arena.umap",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/Effects/NewMaterial.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/ModSciInteriors/Materials/MI_LightThrusters.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/StarterContent/Particles/P_Fire.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/ModSciInteriors/Materials/UI/M_Base_BasicUI.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/Blueprints/Pod.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/Turbine.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/Rattle.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/NewSoundAttenuation.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/Metal2.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/Metal3.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/Metal4.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/Metal1.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/29_Cambridge_Road_3.uasset",
-				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/SFX/29-cambridge-road-3_jzTz5WT6.uasset"
+				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/Mesh/skybox.uasset",
+				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/Mesh/skybox_Mat.uasset",
+				"C:/Users/Neo Holland/OneDrive/Documents/Unreal Projects/MutagenX/Content/TopDown/Mesh/HDR_subdued_blue_nebulae.uasset"
 			]
 		}
 	]
