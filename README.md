@@ -5,7 +5,7 @@ The game's basis relies on the player's different mutations, how they affect the
 Some examples of current mutations include:  
 
 **Slime Speed Mutation** - Doubled speed  
-**Slime Size Mutation** - Increased size when slime pickups are collected  
+**Slime Size Mutation** - Increased size and health when slime pickups are collected  
 **Slime Trail Mutation** - Slime trail behind the player, which damages enemies when in contact  
 
 The slime is equipped with a ranged attack by default, enabling the player to attack enemies and progress to find new mutations.
