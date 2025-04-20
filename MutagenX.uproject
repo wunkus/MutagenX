@@ -16,5 +16,8 @@
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b08e5581837e4bbca486b61cdf2751bb"
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../Downloads/RefreshAllNodes-1.5-UE5.5.0"
 	]
 }
